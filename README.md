@@ -19,7 +19,7 @@ Driven by reliability and impact, I focus on delivering **production-grade cloud
 - 🧠 Passionate about **AI/ML infrastructure**, **MLOps**, **AWS Bedrock**, and **LLM-powered automation**.
 - 🤝 Enjoy mentoring teams, designing clean IaC architectures, and turning complex infrastructure into reliable systems.
 - 💬 Ask me about **AWS**, **Terraform**, **Kubernetes**, **CI/CD**, or **cloud security best practices**.
-- 📫 Reach me at **[YOUR_EMAIL](mailto:Wajju25@gmail.com)**
+- 📫 Reach me at **[Wajju25@gmail.com](mailto:Wajju25@gmail.com)**
 - ⚡ Fun fact: I love automating everything and optimizing cloud cost & performance.
 
 ---
