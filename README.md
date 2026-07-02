@@ -2,7 +2,7 @@
 <h3 align="center">☁️ Senior AWS Cloud & DevOps Engineer | Infrastructure Automation | Platform Engineering</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=Wajju25&label=Profile%20views&color=0e75b6&style=flat" alt="Wajju25" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ Driven by reliability and impact, I focus on delivering **production-grade cloud
 - 🧠 Passionate about **AI/ML infrastructure**, **MLOps**, **AWS Bedrock**, and **LLM-powered automation**.
 - 🤝 Enjoy mentoring teams, designing clean IaC architectures, and turning complex infrastructure into reliable systems.
 - 💬 Ask me about **AWS**, **Terraform**, **Kubernetes**, **CI/CD**, or **cloud security best practices**.
-- 📫 Reach me at **[YOUR_EMAIL](mailto:YOUR_EMAIL)**
+- 📫 Reach me at **[YOUR_EMAIL](mailto:Wajju25@gmail.com)**
 - ⚡ Fun fact: I love automating everything and optimizing cloud cost & performance.
 
 ---
